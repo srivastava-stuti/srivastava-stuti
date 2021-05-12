@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limbo-09&label=Profile%20views&color=0e75b6&style=flat" alt="limbo-09" /> </p>
 
-- 🌱 I’m currently learning **P5.js**
+- 🌱 I’m currently learning **p5.js**
 - 🔤 i like using lowercase letters whenever i can
 - 🎬 [my portfolio](https://srivastava-stuti.github.io/portfolio/)
 

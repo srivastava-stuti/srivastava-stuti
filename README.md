@@ -5,7 +5,7 @@
 
 - 🌱 i’m currently learning **p5.js**
 - 🔤 i like using lowercase letters whenever i can
-- 🎬 [my portfolio](https://srivastava-stuti.github.io/portfolio/)
+- 🎬 [my portfolio](https://srivastava-stuti.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
